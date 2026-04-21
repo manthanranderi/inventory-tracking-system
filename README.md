@@ -66,10 +66,9 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
-
-<img width="1365" height="723" alt="inventory" src="https://github.com/user-attachments/assets/6f2d648b-a589-4940-9be8-71169d00bada" />
-
-<img width="1709" height="949" alt="firebase" src="https://github.com/user-attachments/assets/a5af720a-7115-4115-ac73-6aba875c2095" />
+```
+<img width="1365" height="723" alt="inventory" src="https://github.com/user-attachments/assets/f0463335-546a-4a4e-8ab2-cecafc5ce69b" />
+<img width="1709" height="949" alt="firebase" src="https://github.com/user-attachments/assets/f42553ac-1512-4822-a168-ad112fb757a1" />
 
 
 
