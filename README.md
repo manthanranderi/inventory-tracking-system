@@ -67,10 +67,10 @@ src/
 ├── main.jsx
 └── index.css
 
-<img width="1709" height="949" alt="firebase" src="https://github.com/user-attachments/assets/b1313ba2-e04f-4bb5-b4ad-46dd7d3bfcee" />
+<img width="1365" height="723" alt="inventory" src="https://github.com/user-attachments/assets/6f2d648b-a589-4940-9be8-71169d00bada" />
 
+<img width="1709" height="949" alt="firebase" src="https://github.com/user-attachments/assets/a5af720a-7115-4115-ac73-6aba875c2095" />
 
-<img width="1709" height="949" alt="firebase" src="https://github.com/user-attachments/assets/36acf379-2ae7-45dd-9b58-3245dcbb35d3" />
 
 
 
